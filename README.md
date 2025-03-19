@@ -20,3 +20,4 @@ The classification report showed that positive sentiments were easier to classif
 The confusion matrix revealed some misclassifications, particularly between neutral and positive tweets.
 **Conclusion**
 This project demonstrated how sentiment analysis can be applied to social media data to classify tweets into different sentiment categories. By leveraging NLP techniques and machine learning models, we successfully analyzed and predicted sentiments with good accuracy. Future improvements can include using deep learning models like LSTMs for better results.
+![Image](https://github.com/user-attachments/assets/bfeb9e8b-21ae-49f1-80a9-9984953b881c)
